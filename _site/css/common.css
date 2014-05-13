@@ -14,9 +14,12 @@ body {
 }
 
 header {
-  width: 50%;
-  margin: auto;
-  padding: 25px;
+  background: #FFF;
+  padding: 2%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 header p {
@@ -85,8 +88,15 @@ p {
 
 footer {
   background: #FFF;
-  padding: 50px;
-  opacity: .6;
+  padding: 3%;
+  opacity: .5;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.box1 {
 }
 
 /* Media Queires */
