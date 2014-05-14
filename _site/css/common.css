@@ -9,17 +9,17 @@ body {
 }
   
 .white-bg {
-  background: #FFF;
+  background: #3F3F3F;
   padding: 15px;
 }
 
 header {
-  background: #FFF;
-  padding: 2%;
-  position: fixed;
+/*  padding: 2%;*/
+/*  position: fixed;
   top: 0;
-  left: 0;
-  width: 100%;
+  left: 0;*/
+/*  width: 100%;*/
+  margin-top: 10%;
 }
 
 header p {
@@ -73,11 +73,11 @@ p {
 }
 
 .sample-image {
-  display: -webkit-flex;
+/*  display: -webkit-flex;
   display: flex;
   -webkit-flex-direction: row;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-between;*/
   margin-bottom: 50px;
 }
 
@@ -100,9 +100,3 @@ footer {
 }
 
 /* Media Queires */
-
-@media all and (max-device-width: 480px) {
-  li {
-    float: none;
-  }
-}
