@@ -162,7 +162,6 @@ h2 {
 #manscut {
     background: #E06D5E;
     padding: 70px 0;
-    margin-bottom: 80px;
   }
   
 .inner-designer {
@@ -204,12 +203,9 @@ h2 {
 }
 
 footer {
-/*  margin-top: 60px;*/
-  padding: 30px 0;
+  padding: 20px 0;
   background-color: #999;
   text-align: center;
-  position: fixed;
-  bottom: 0;
   width: 100%;
 }
 /*.samples .special-header {
