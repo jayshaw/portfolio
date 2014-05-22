@@ -162,7 +162,6 @@ h2 {
 #manscut {
     background: #E06D5E;
     padding: 70px 0;
-    margin-bottom: 80px;
   }
   
 .inner-designer {
@@ -203,47 +202,34 @@ h2 {
   margin-bottom: 250px;
 }
 
+/* Resume Layout */
+
+.inner-resume {
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 2em;
+}
+
+.toolbox {
+  text-align: left;
+  border-bottom: 1px, dotted, #333;
+}
+
+.experience {
+  text-align: left;
+}
+
+.web-development {
+  text-align: left;
+}
+
 footer {
 /*  margin-top: 60px;*/
   padding: 30px 0;
   background-color: #999;
   text-align: center;
   width: 100%;
-}
-/*.samples .special-header {
-  color: black;
-  font-family: josefin-sans, sans-serif;
-  font-size: 2em;
-  letter-spacing: 0.0625em;
-  background: lightgray;
-  padding: 15%;
-}
-
-.sample-image {
-/*  display: -webkit-flex;
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  justify-content: space-between;
-  margin-bottom: 50px;
-}
-
-.sample-image img {
-  margin: 0;
-  padding: 0;
-}
-
-footer {
-  background: #FFF;
-  padding: 3%;
-  opacity: .5;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-}
-
-.box1 {
 }
 
 /* Media Queires */
